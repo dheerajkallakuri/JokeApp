@@ -1,0 +1,5 @@
+gTTS
+pyobjc
+PyQt5
+playsound
+requests
